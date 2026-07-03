@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Belmahi Youness]
+# 👋 Hello, I'm Youness Belmahi
 
 📍 **Morocco** · 🖥️ **Frontend Developer** · 🚀 **React & TypeScript Enthusiast**
 
@@ -20,7 +20,6 @@ I created this GitHub to document my learning journey and showcase my projects. 
 
 ### 📌 Featured Projects
 
-#### 🧠 [The Complete Dev Dictionary](https://github.com/[YOUR-USERNAME]/dev-cheatsheet)
 > An interactive, searchable cheat sheet for frontend developers.  
 > Covers 50+ technical terms with real-world analogies. Features live search, dark mode, and persistent user preferences.  
 > **Tech:** HTML5, CSS3, Vanilla JavaScript, localStorage.
@@ -44,9 +43,9 @@ Architecture: Built as a high-performance, static web application with a product
 
 ### 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Innovativeness-dev]&show_icons=true&theme=github_dark&hide=prs,issues)](https://github.com/[Innovativeness-dev])
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Innovativeness-dev&show_icons=true&theme=github_dark&hide=prs,issues)](https://github.com/Innovativeness-dev)
 
----
+--
 
 ### 📫 Let's Connect
 
